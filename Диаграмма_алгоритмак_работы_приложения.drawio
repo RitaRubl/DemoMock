@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="u0zea_Hl5kE1XZ6gM5Uc">
+    <mxGraphModel dx="1770" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-3" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Анализ предметной области" vertex="1">
+          <mxGeometry height="40" width="234" x="297" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-4" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Нормализация данных" vertex="1">
+          <mxGeometry height="40" width="234" x="297" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-5" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Разработка базы данных и импорт данных" vertex="1">
+          <mxGeometry height="40" width="234" x="297" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-6" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Подключение базы данных к приложению" vertex="1">
+          <mxGeometry height="40" width="234" x="297" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-7" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Разработка логики взаимодействия пользователя с ролью &quot;Агент&quot;" vertex="1">
+          <mxGeometry height="55.5" width="234" x="297" y="584.5" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-8" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Разработка страницы авторизации" vertex="1">
+          <mxGeometry height="40" width="234" x="297" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-10" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Разработка логики взаимодействия пользователя с ролью &quot;Менеджер&quot;" vertex="1">
+          <mxGeometry height="60" width="234" x="297" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-12" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Разработка логики взаимодействия пользователя с ролью &quot;Администратор&quot;" vertex="1">
+          <mxGeometry height="60" width="234" x="297" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-14" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Тестирование и отладка приложения" vertex="1">
+          <mxGeometry height="40" width="234" x="297" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="u9NKUTzNjc54CQbeCP9d-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="920" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
